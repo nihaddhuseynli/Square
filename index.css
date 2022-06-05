@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    border: 0;
+}
+.one{
+    width: 100px;
+    height: 100px;
+    background:cyan;
+    margin-top: 200px;
+    margin-left:500px;
+    transition: 2s;
+}
+.one:hover{
+        margin-top:20px;
+        margin-left:20px;
+        border-radius:50%;
+        background:red;
+    
+}
